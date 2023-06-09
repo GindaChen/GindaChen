@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm GindaChen! 👋 
 
-- (2023/09 ~ ) Computer Science PhD Student at [UCSD CSE](https://cse.ucsd.edu)
-- (2021/09 ~ 2023/06) Technical Leader at [DataChat](DataChat.ai) 
-- (2020/09 ~ 2021/09) Graduate student researcher in [UW-Madison DB Group](https://database.cs.wisc.edu/). 
+- (Starting 2023 Fall) Computer Science PhD Student at [UCSD CSE](https://cse.ucsd.edu)
+- (Former) Technical Leader at [DataChat](DataChat.ai) 
+- (Former) Graduate student researcher in [UW-Madison DB Group](https://database.cs.wisc.edu/). 
 
 
 #### Language
