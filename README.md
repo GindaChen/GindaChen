@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GindaChen's GitHub stats](https://github-readme-stats-gindachen.vercel.app/api?username=gindachen&theme=transparent&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![GindaChen's GitHub stats](https://github-readme-stats-gindachen.vercel.app/api?username=gindachen&theme=transparent&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  -->
 <!-- [![Top Langs](https://github-readme-stats-eta-sable.vercel.app/api/top-langs/?username=gindachen&layout=compact&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
