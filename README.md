@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm GindaChen! 👋 
 
-- (Starting 2023 Fall) Computer Science PhD Student at [UCSD CSE](https://cse.ucsd.edu)
+- Computer Science PhD Student at [UCSD CSE](https://cse.ucsd.edu) starting 2023 Fall.
 - (Former) Technical Leader at [DataChat](DataChat.ai) 
 - (Former) Graduate student researcher in [UW-Madison DB Group](https://database.cs.wisc.edu/). 
 
