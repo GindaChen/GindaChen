@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm GindaChen! 👋 
 
 - Computer Science PhD Student at [UCSD CSE](https://cse.ucsd.edu) starting 2023 Fall.
+- Actively working on LLM System in [Hao AI Lab](https://hao-ai-lab.github.io/blogs/)
 - (Former) Technical Leader at [DataChat](DataChat.ai) 
 - (Former) Graduate student researcher in [UW-Madison DB Group](https://database.cs.wisc.edu/). 
 
