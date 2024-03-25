@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 <!-- [![Top Langs](https://github-readme-stats-eta-sable.vercel.app/api/top-langs/?username=gindachen&layout=compact&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-### Hi there, I'm GindaChen! 👋 
+### Hi there, I'm Junda Chen! 👋 
 
 - Computer Science PhD Student at [UCSD CSE](https://cse.ucsd.edu) starting 2023 Fall.
 - Actively working on LLM System in [Hao AI Lab](https://hao-ai-lab.github.io/blogs/)
 - (Former) Technical Leader at [DataChat](DataChat.ai) 
 - (Former) Graduate student researcher in [UW-Madison DB Group](https://database.cs.wisc.edu/). 
-
+- GindaChen is an alias to help you pronounce my name _(also too late to change Github handle...)_
 
 #### Language
 - Ask me anything: 
