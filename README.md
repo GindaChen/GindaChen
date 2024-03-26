@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Junda Chen! 👋 
 
+- (New) Just launched [my blog](https://gindachen.github.io/) 🚀!
 - Computer Science PhD Student at [UCSD CSE](https://cse.ucsd.edu) starting 2023 Fall.
 - Actively working on LLM System in [Hao AI Lab](https://hao-ai-lab.github.io/blogs/)
 - (Former) Technical Leader at [DataChat](DataChat.ai) 
