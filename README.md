@@ -20,9 +20,14 @@ Here are some ideas to get you started:
 ### Hi there, I'm Junda Chen! 👋 
 
 - Computer Science PhD Student at [UCSD CSE](https://cse.ucsd.edu) starting 2023 Fall.
-- (Former) Technical Leader at [DataChat](DataChat.ai) 
-- (Former) Graduate student researcher in [UW-Madison DB Group](https://database.cs.wisc.edu/). 
-- GindaChen is an alias to help you pronounce my name _(also too late to change Github handle...)_
+- Building the [AICI](https://github.com/microsoft/aici) project in Microsoft Research (RiSE group) 2024 Summer.
+- Interested in ML System and Software Engineering.
+
+Before my PhD, I was a:
+- Technical Leader at [DataChat](DataChat.ai) building the data analytical platform
+- Undergrad + Graduate student in [UW-Madison DB Group](https://database.cs.wisc.edu/)
+
+Personal Website: https://gindachen.github.io/
 
 #### Language
 - Ask me anything: 
