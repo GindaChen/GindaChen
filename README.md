@@ -19,12 +19,14 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Junda Chen! 👋 
 
-- Computer Science PhD Student at [UCSD CSE](https://cse.ucsd.edu) starting 2023 Fall.
-- Building the [AICI](https://github.com/microsoft/aici) project in Microsoft Research (RiSE group) 2024 Summer.
-- Interested in ML System and Software Engineering.
+- CS PhD Student at [UCSD CSE](https://cse.ucsd.edu) starting 2023 Fall.
+- Member of [Hao AI Lab](https://hao-ai-lab.github.io/) and [See Lab](https://seelab.ucsd.edu/).
+- Research Interest: Efficient LLM Serving System, Reasoning Systems and Algorithm.
+- Building [Dynasor](https://github.com/hao-ai-lab/Dynasor) in [Hao AI Lab](https://hao-ai-lab.github.io/).
+
 
 Before my PhD, I was a:
-- Technical Leader at [DataChat](DataChat.ai) building the data analytical platform
+- Technical Leader at [DataChat](DataChat.ai) building the data analytical platform ([try it out!](https://apps.datachat.ai/))
 - Undergrad + Graduate student in [UW-Madison DB Group](https://database.cs.wisc.edu/)
 
 Personal Website: https://gindachen.github.io/
